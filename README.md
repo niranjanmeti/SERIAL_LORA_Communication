@@ -32,7 +32,7 @@
 
 (Upload your block diagram image into the Report/ folder and update the link below)
 
-![Block Diagram](./Report/block_diagram.jpg)
+![Block Diagram](./Report/block_diagram_v1.jpg)
 
 ---
 
