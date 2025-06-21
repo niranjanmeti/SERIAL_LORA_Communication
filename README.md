@@ -70,5 +70,5 @@ This project is licensed under the [MIT License](./LICENSE) — you’re free to
 
 ## 🙌 Let’s Connect
 
-Made with focus and curiosity by [Niranjan](https://github.com/your-username)  
+Made with focus and curiosity by [Niranjan](https://github.com/niranjanmeti)  
 Feel free to ⭐ this repo or reach out if you’d like to collaborate!
